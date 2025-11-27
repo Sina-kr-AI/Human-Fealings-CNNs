@@ -23,12 +23,12 @@ To address this issue, techniques such as data augmentation, dropout, and regula
 - **Plots**
 
   - Before correction:
-    <img src='puictures/bef loss.png'>
-    <img src='puictures/bef acc.png'>
+    - <img src='puictures/bef loss.png'>
+    - <img src='puictures/bef acc.png'>
 
   - After correction:
-    <img src='puictures/aft loss.png'> 
-    <img src='puictures/aft accuracy.png'>
+    - <img src='puictures/aft loss.png'> 
+    - <img src='puictures/aft accuracy.png'>
 
 ## Dataset structure
 
