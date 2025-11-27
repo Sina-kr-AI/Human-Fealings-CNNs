@@ -19,6 +19,16 @@ To address this issue, techniques such as data augmentation, dropout, and regula
     - batchnormalization
     - dropout
     - data augmentation
+  
+- **Plots**
+
+  - Before correction:
+    <img src='puictures/bef loss.png'>
+    <img src='puictures/bef acc.png'>
+
+  - After correction:
+    <img src='puictures/aft loss.png'> 
+    <img src='puictures/aft accuracy.png'>
 
 ## Dataset structure
 
